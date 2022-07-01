@@ -8,7 +8,7 @@
 	"server": false,
 	"comment_server": "change 'server' with 'true', if you run in replit!",
 	"limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
-	"packInfo": { "packname": "@rizkyfadilah8", "author": "6288298582710" },
+	"packInfo": { "packname": "@botpalell4", "author": "6288298582710" },
 	"namebot": "BotPalell",
 	"timezone": "Asia/Jakarta",
 	"email": "admin@rzkyfdlh.tech",
